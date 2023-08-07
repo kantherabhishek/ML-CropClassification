@@ -1,7 +1,10 @@
 # ML-CropClassification
 # Crop Classification with Machine Learning
 
-![Crop Classification](image.jpg)
+[![Crop Classification with Machine Learning](image.jpg)](https://youtu.be/5OSDF5KELww)
+
+Click the image above to watch the video demonstration!
+
 
 ## Overview
 
