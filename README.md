@@ -1,7 +1,7 @@
 # ML-CropClassification
 # Crop Classification with Machine Learning
 
-![Crop Classification]([https://your-image-link.com](https://github.com/kantherabhishek/ML-CropClassification/image.jpg))
+![Crop Classification](image.jpg)
 
 ## Overview
 
